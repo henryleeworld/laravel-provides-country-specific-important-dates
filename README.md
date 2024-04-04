@@ -1,4 +1,4 @@
-# Laravel 9 提供特定國家重要節日
+# Laravel 10 提供特定國家重要節日
 
 引入 dansoppelsa 的 laravel-carbon-macros 套件來擴增提供特定國家重要節日，節慶通常有其特殊的文化背景，節慶的儀式也有其特殊的意義。
 
@@ -22,5 +22,5 @@ $ php artisan key:generate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/3NqcaQF.png)
+![](https://i.imgur.com/y3y57CL.png)
 > 重要節日是時程安排依據，以便看準日期與時間訂立計劃
